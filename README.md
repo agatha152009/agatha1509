@@ -1,10 +1,13 @@
-ola meu nome é agatha...
+### Boas vindas ao meu perfil :blue_heart
 
-tenho quase 15 anos e não tenho interesse em programação...
-faço pra minha aula de pensamento computacional.
+Meu nome é Marcelo Paludetto
 
-bem vindo ao meu perfil q como qqr outro... é bem aletorio kk 
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou querendo me desenvolver em design grafico
 
-### seja voce sua propria inspiração ###
+### Você pode entrar em contato comigo 📧
+
+agatha.silva.fernandes@escola.pr.gov.br
+
 
 ![descrição do GIF](link GIF do Tenor)
